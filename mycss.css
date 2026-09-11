@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.color1{
+    color: red;
+}
+
+.new{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 5%;
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: blue;
+}
+
+p{
+    color: black;
+}
+
+.bottom{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#old{
+    color: red;
+}
+
+@media
